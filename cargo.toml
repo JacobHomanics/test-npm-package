@@ -1,8 +1,6 @@
 [package]
-name = "jake-homanics-test-cargo-package"
+name = "test-npm-package"
 version = "0.1.0"
-authors = ["Jacob Homanics (homanicsjake@gmail.com)"]
-edition = "2025"
-license = "MIT"  # Specify your license
-description = "A brief description of your crate"
-repository = "https://github.com/jacobhomanics/test-npm-package"  # Optional but recommended
+edition = "2021"
+
+[dependencies]
