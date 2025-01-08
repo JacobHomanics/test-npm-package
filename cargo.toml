@@ -1,5 +1,5 @@
 [package]
-name = "test-npm-package2"
+name = "test-npm-package"
 version = "0.1.0"
 edition = "2021"
 description = "Test NPM Package"
